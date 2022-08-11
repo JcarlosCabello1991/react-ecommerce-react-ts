@@ -1,0 +1,685 @@
+{
+  "products": [
+    {
+      "id": 104,
+      "title": "Puma Classics RX",
+      "price": 78,
+      "gender": "man",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "img": "../../images/hombre/CA-Pro-Tumble-Trainers.webp",
+      "images": {
+        "pic1": "../../images/hombre/CA-Pro-Tumble-Trainers.webp",
+        "pic2": "../../images/hombre/CA-Pro-Tumble-Trainers-front.webp",
+        "pic3": "../../images/hombre/CA-Pro-Tumble-Trainers-back.webp"
+      }
+    },
+    {
+      "id": 105,
+      "title": "Puma Leather Sneakers",
+      "price": 150.95,
+      "gender": "man",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/hombre/Slipstream-Leather-Sneakers.webp",
+      "images": {
+        "pic1": "../../images/hombre/Slipstream-Leather-Sneakers.webp",
+        "pic2": "../../images/hombre/Slipstream-Leather-Sneakers-front.webp",
+        "pic3": "../../images/hombre/Slipstream-Leather-Sneakers-back.webp"
+      }
+    },
+    {
+      "id": 106,
+      "title": "Puma Pure Speed",
+      "price": 120.95,
+      "gender": "man",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes.webp",
+      "images": {
+        "pic1": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes.webp",
+        "pic2": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes-front.webp",
+        "pic3": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes-back.webp"
+      }
+    },
+    {
+      "id": 107,
+      "title": "Puma Running Man",
+      "price": 120.95,
+      "gender": "man",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO.webp",
+      "images": {
+        "pic1": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO.webp",
+        "pic2": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO-front.jpg",
+        "pic3": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO-back.webp"
+      }
+    },
+    {
+      "id": 108,
+      "title": "Puma Rebound Future",
+      "price": 170.95,
+      "gender": "man",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/hombre/Zapatillas-Rebound-Future-Evo-Core.webp",
+      "images": {
+        "pic1": "../../images/hombre/Zapatillas-Rebound-Future-Evo-Core.webp",
+        "pic2": "../../images/hombre/Zapatillas-Rebound-Future-Evo-Core-front.webp",
+        "pic3": "../../images/hombre/Zapatillas-Rebound-Future-Evo-Core-back.jpg"
+      }
+    },
+    {
+      "id": 109,
+      "title": "Puma RS-Z",
+      "price": 170.95,
+      "gender": "man",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/hombre/Zapatillas-RS-Z-Outline.webp",
+      "images": {
+        "pic1": "../../images/hombre/Zapatillas-RS-Z-Outline.webp",
+        "pic2": "../../images/hombre/Zapatillas-RS-Z-Outline-front.webp",
+        "pic3": "../../images/hombre/Zapatillas-RS-Z-Outline-back.webp"
+      }
+    },
+    {
+      "id": 110,
+      "title": "Puma Weekend OG",
+      "price": 99.95,
+      "gender": "man",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/hombre/Zapatillas-Weekend-OG.webp",
+      "images": {
+        "pic1": "../../images/hombre/Zapatillas-Weekend-OG.webp",
+        "pic2": "../../images/hombre/Zapatillas-Weekend-OG-front.jpg",
+        "pic3": "../../images/hombre/Zapatillas-Weekend-OG-back.webp"
+      }
+    },
+    {
+      "id": 111,
+      "title": "Puma Wild rider",
+      "price": 50.95,
+      "gender": "man",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/hombre/Zapatillas-Wild-Rider-Grip.webp",
+      "images": {
+        "pic1": "../../images/hombre/Zapatillas-Wild-Rider-Grip.webp",
+        "pic2": "../../images/hombre/Zapatillas-Wild-Rider-Grip-front.webp",
+        "pic3": "../../images/hombre/Zapatillas-Wild-Rider-Grip-back.webp"
+      }
+    },
+    {
+      "id": 112,
+      "title": "Puma Cruise Rider",
+      "price": 90.95,
+      "gender": "woman",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/mujer/Zapatillas-Cruise-Rider-Thunder-by-Pedroche.webp",
+      "images": {
+        "pic1": "../../images/mujer/Zapatillas-Cruise-Rider-Thunder-by-Pedroche.webp",
+        "pic2": "../../images/mujer/Zapatillas-Cruise-Rider-Thunder-by-Pedroche-front.webp",
+        "pic3": "../../images/mujer/Zapatillas-Cruise-Rider-Thunder-by-Pedroche-back.webp"
+      }
+    },
+    {
+      "id": 113,
+      "title": "Puma Easy Rider",
+      "price": 69.95,
+      "gender": "woman",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/mujer/Zapatillas-Easy-Rider-II.webp",
+      "images": {
+        "pic1": "../../images/mujer/Zapatillas-Easy-Rider-II.webp",
+        "pic2": "../../images/mujer/Zapatillas-Easy-Rider-II-front.webp",
+        "pic3": "../../images/mujer/Zapatillas-Easy-Rider-II-back.jpg"
+      }
+    },
+    {
+      "id": 114,
+      "title": "Puma Suede VTG",
+      "price": 56.95,
+      "gender": "woman",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/mujer/Zapatillas-estampadas-Suede-VTG.webp",
+      "images": {
+        "pic1": "../../images/mujer/Zapatillas-estampadas-Suede-VTG.webp",
+        "pic2": "../../images/mujer/Zapatillas-estampadas-Suede-VTG-front.webp",
+        "pic3": "../../images/mujer/Zapatillas-estampadas-Suede-VTG-back.webp"
+      }
+    },
+    {
+      "id": 115,
+      "title": "Puma Future Rider",
+      "price": 120.95,
+      "gender": "woman",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/mujer/Zapatillas-Future-Rider-Play-On.jpg",
+      "images": {
+        "pic1": "../../images/mujer/Zapatillas-Future-Rider-Play-On.jpg",
+        "pic2": "../../images/mujer/Zapatillas-Future-Rider-Play-On-front.jpg",
+        "pic3": "../../images/mujer/Zapatillas-Future-Rider-Play-On-back.webp"
+      }
+    },
+    {
+      "id": 116,
+      "title": "Puma Cali Dream",
+      "price": 89.95,
+      "gender": "woman",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Lth.webp",
+      "images": {
+        "pic1": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Lth.webp",
+        "pic2": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Lth-front.webp",
+        "pic3": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Lth-back.webp"
+      }
+    },
+    {
+      "id": 117,
+      "title": "Puma Classic Dream",
+      "price": 89.95,
+      "gender": "woman",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-LthhClassic.webp",
+      "images": {
+        "pic1": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-LthhClassic.webp",
+        "pic2": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-LthClassic-front.jpg",
+        "pic3": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Lth-classic-back.webp"
+      }
+    },
+    {
+      "id": 118,
+      "title": "Puma Dream Pastel",
+      "price": 56.95,
+      "gender": "woman",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Pastel.webp",
+      "images": {
+        "pic1": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Pastel.webp",
+        "pic2": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Pastel-front.webp",
+        "pic3": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Pastel-back.webp"
+      }
+    },
+    {
+      "id": 119,
+      "title": "Puma X butter",
+      "price": 85.95,
+      "gender": "woman",
+      "size": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "img": "../../images/mujer/Zapatillas-PUMA-x-BUTTER-GOODS-Suede-VTG-HS.jpg",
+      "images": {
+        "pic1": "../../images/mujer/Zapatillas-PUMA-x-BUTTER-GOODS-Suede-VTG-HS.jpg",
+        "pic2": "../../images/mujer/Zapatillas-PUMA-x-BUTTER-GOODS-Suede-VTG-HS-front.webp",
+        "pic3": "../../images/mujer/Zapatillas-PUMA-x-BUTTER-GOODS-Suede-VTG-HS-back.webp"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "juan carlos",
+      "lastName": "cabello mangas",
+      "email": "jc@gmail.com",
+      "phone": "648036195",
+      "address": "c/riojanos, 12",
+      "password": "2",
+      "confirm_password": "2",
+      "favourites": [
+        {
+          "id": 110,
+          "title": "Puma Weekend OG",
+          "price": 99.95,
+          "gender": "man",
+          "size": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ],
+          "img": "../../images/hombre/Zapatillas-Weekend-OG.webp",
+          "images": {
+            "pic1": "../../images/hombre/Zapatillas-Weekend-OG.webp",
+            "pic2": "../../images/hombre/Zapatillas-Weekend-OG-front.jpg",
+            "pic3": "../../images/hombre/Zapatillas-Weekend-OG-back.webp"
+          }
+        },
+        {
+          "id": 104,
+          "title": "Puma Tumble Trainers",
+          "price": 90.95,
+          "gender": "man",
+          "size": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ],
+          "img": "../../images/hombre/CA-Pro-Tumble-Trainers.webp",
+          "images": {
+            "pic1": "../../images/hombre/CA-Pro-Tumble-Trainers-front.webp",
+            "pic2": "../../images/hombre/CA-Pro-Tumble-Trainers-back.webp",
+            "pic3": "../../images/hombre/CA-Pro-Tumble-Trainers.webp"
+          }
+        }
+      ],
+      "tickets": [
+        {
+          "code": "804471.7017840471",
+          "date": "9/8/2022",
+          "ticket": [
+            {
+              "id": 106,
+              "title": "Puma Pure Speed",
+              "price": 120.95,
+              "gender": "man",
+              "size": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+              ],
+              "img": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes.webp",
+              "images": {
+                "pic1": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes.webp",
+                "pic2": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes-front.webp",
+                "pic3": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes-back.webp"
+              },
+              "quantity": 1,
+              "sizeSelected": 37
+            },
+            {
+              "id": 110,
+              "title": "Puma Weekend OG",
+              "price": 99.95,
+              "gender": "man",
+              "img": "../../images/hombre/Zapatillas-Weekend-OG.webp",
+              "size": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+              ],
+              "sizeSelected": 37,
+              "images": {
+                "pic1": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes.webp",
+                "pic2": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes-front.webp",
+                "pic3": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes-back.webp"
+              },
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "code": "117498.38083228027",
+          "date": "10/8/2022",
+          "ticket": [
+            {
+              "id": 118,
+              "title": "Puma Dream Pastel",
+              "price": 56.95,
+              "gender": "woman",
+              "size": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+              ],
+              "img": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Pastel.webp",
+              "images": {
+                "pic1": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Pastel.webp",
+                "pic2": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Pastel-front.webp",
+                "pic3": "../../images/mujer/Zapatillas-para-mujer-Cali-Dream-Pastel-back.webp"
+              },
+              "quantity": 1,
+              "sizeSelected": 43
+            },
+            {
+              "id": 113,
+              "title": "Puma Easy Rider",
+              "price": 69.95,
+              "gender": "woman",
+              "img": "../../images/mujer/Zapatillas-Easy-Rider-II.webp",
+              "size": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+              ],
+              "sizeSelected": 38,
+              "images": {
+                "pic1": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes.webp",
+                "pic2": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes-front.webp",
+                "pic3": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes-back.webp"
+              },
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "code": "42242.45362534673",
+          "date": "10/8/2022",
+          "ticket": [
+            {
+              "id": 107,
+              "title": "Puma Running Man",
+              "price": 120.95,
+              "gender": "man",
+              "size": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+              ],
+              "img": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO.webp",
+              "images": {
+                "pic1": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO.webp",
+                "pic2": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO-front.jpg",
+                "pic3": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO-back.webp"
+              },
+              "quantity": 1,
+              "sizeSelected": 45
+            }
+          ]
+        },
+        {
+          "code": "777837.9294964178",
+          "date": "11/8/2022",
+          "ticket": [
+            {
+              "id": 119,
+              "title": "Puma X butter",
+              "price": 85.95,
+              "gender": "woman",
+              "size": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+              ],
+              "img": "../../images/mujer/Zapatillas-PUMA-x-BUTTER-GOODS-Suede-VTG-HS.jpg",
+              "images": {
+                "pic1": "../../images/mujer/Zapatillas-PUMA-x-BUTTER-GOODS-Suede-VTG-HS.jpg",
+                "pic2": "../../images/mujer/Zapatillas-PUMA-x-BUTTER-GOODS-Suede-VTG-HS-front.webp",
+                "pic3": "../../images/mujer/Zapatillas-PUMA-x-BUTTER-GOODS-Suede-VTG-HS-back.webp"
+              },
+              "quantity": 1,
+              "sizeSelected": 37
+            }
+          ]
+        },
+        {
+          "code": "809727.9076169479",
+          "date": "11/8/2022",
+          "ticket": [
+            {
+              "id": 106,
+              "title": "Puma Pure Speed",
+              "price": 120.95,
+              "gender": "man",
+              "size": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45
+              ],
+              "img": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes.webp",
+              "images": {
+                "pic1": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes.webp",
+                "pic2": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes-front.webp",
+                "pic3": "../../images/hombre/Speedcat-Shield-Lth-Driving-Shoes-back.webp"
+              },
+              "quantity": 2,
+              "sizeSelected": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "victor",
+      "lastName": "G-V",
+      "email": "victor@gx.com",
+      "phone": "69863254",
+      "address": "victorias, 323",
+      "password": "3",
+      "confirm_password": "3",
+      "favourites": [
+        {
+          "id": 107,
+          "title": "Puma Running Man",
+          "price": 120.95,
+          "gender": "man",
+          "size": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ],
+          "img": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO.webp",
+          "images": {
+            "pic1": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO.webp",
+            "pic2": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO-front.jpg",
+            "pic3": "../../images/hombre/Zapatillas-de-running-para-hombre-Fast-Trac-NITRO-back.webp"
+          }
+        }
+      ],
+      "tickets": []
+    },
+    {
+      "id": 3,
+      "name": "boss",
+      "lastName": "boss",
+      "email": "boss@puma.com",
+      "phone": "555555555",
+      "address": "miCasa",
+      "password": "0",
+      "confirm_password": "0",
+      "favourites": [],
+      "tickets": []
+    }
+  ]
+}
