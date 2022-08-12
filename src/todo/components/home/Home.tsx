@@ -58,10 +58,10 @@ function Home() {
   
   const context = useContext<contextProps>(TodoContext); 
   
-  context.setProductsToShow(context.dashboard);
   const titleToSearch: Array<products> = context.productsToShow;
 
   if(titleToSearch.length == context.dashboard.length){
+      context.setProductsToShow(context.dashboard);
     return (
         <>
             <Header />
