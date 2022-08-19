@@ -1,6 +1,11 @@
 # React Ecommerce wtih TypeScript and styled components
--Organization and Highlights
--Technologies used in the project
+-Organization and Highlights</br>
+-Technologies used in the project</br>
+
+## Steps to run the ecommerce, show products and use all functionallities
+-execute npm install react-scripts --save</br>
+-execute npm run server(in package json it will run on port 5000)</br>
+-execute npm run start(will run on port 3000)</br>
 
 ## Organization of Ecommerce and Things to Highlight
 
@@ -11,11 +16,11 @@ Using files with .tsx and ts to differentiate between components and API call fo
 useContext, useCallback, useMemo
 
 ### What do you use in the Ecommerce
--Styled components
--TypeScript
--React
--useContext, useCallback and useMemo
--Json Server
+-Styled components</br>
+-TypeScript</br>
+-React</br>
+-useContext, useCallback and useMemo</br>
+-Json Server</br>
 
 ### Developer
 <a href="https://github.com/JcarlosCabello1991">Juan Carlos Cabello</a><br>
